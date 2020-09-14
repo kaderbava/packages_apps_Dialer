@@ -76,7 +76,7 @@ public class AnswerProximitySensor
     }
 
     Trace.endSection();
-    return true;
+    return false;
   }
 
   public AnswerProximitySensor(
